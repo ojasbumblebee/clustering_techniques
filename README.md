@@ -1,1 +1,7 @@
-# Clustering_techniques
+# Clustering_techniques\
+
+Run Clustering script using
+
+```
+python clustering.py
+```
